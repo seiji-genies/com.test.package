@@ -6,5 +6,13 @@
     "keywords": [
         "Fun"
     ],
-    "category": "Tools"
+    "category": "Tools",
+    "files": [
+        "/Scripts",
+        "/Scripts.md",
+        "/README.md",
+        "/README.md.meta",
+        "/package.json",
+        "/package.json.meta"
+    ]
 }
