@@ -1,7 +1,7 @@
 {
     "name": "com.test.package",
     "displayName": "Seiji's Package",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "This package provides nothing!!!!",
     "keywords": [
         "Fun"
