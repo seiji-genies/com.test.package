@@ -1,0 +1,10 @@
+{
+    "name": "com.test.package",
+    "displayName": "Seiji's Package",
+    "version": "0.0.1",
+    "description": "This package provides nothing!!!",
+    "keywords": [
+        "Fun"
+    ],
+    "category": "Tools"
+}
