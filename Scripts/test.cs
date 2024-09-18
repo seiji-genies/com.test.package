@@ -2,7 +2,7 @@ using System;
 
 namespace TestPackage
 {
-    class Test
+    class Test2
     {
         
     }
